@@ -29,22 +29,23 @@
 </ul>
 
 <h2>Projetos Frontend Senac</h2>
+<hr>
 
 <table>
   <tr>
-    <td>Projeto1</td>
-    <td>Projeto2</td>
-    <td align="center">
+    <td width="200" height="200" align="center">Projeto1</td>
+    <td width="200" height="200" align="center">Projeto2</td>
+    <td width="200" height="200" align="center">
       3 - Neflix Clone<br>
       <a href="https://luizcode93.github.io/Projetos-Frontend-Senac/">Netflix Clone</a>
     </td>
-    <td>Projeto4</td>
+    <td width="200" height="200" align="center">Projeto4</td>
   </tr>
   <tr>
-    <td>Projeto5</td>
-    <td>Projeto6</td>
-    <td>Projeto7</td>
-    <td>Projeto8</td>
+    <td width="200" height="200" align="center">Projeto5</td>
+    <td width="200" height="200" align="center">Projeto6</td>
+    <td width="200" height="200" align="center">Projeto7</td>
+    <td width="200" height="200" align="center">Projeto8</td>
   </tr>
 
 

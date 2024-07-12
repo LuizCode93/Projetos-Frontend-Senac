@@ -36,7 +36,7 @@
     <td>Projeto2</td>
     <td align="center">
       3 - Neflix Clone<br>
-      <a href="https://luizcode93.github.io/Projetos-Frontend-Senac/">Clone Netflix</a>
+      <a href="https://luizcode93.github.io/Projetos-Frontend-Senac/" target="_blank">Clone Netflix</a>
     </td>
     <td>Projeto4</td>
   </tr>
